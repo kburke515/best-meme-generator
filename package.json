@@ -3,5 +3,8 @@
   "dependencies": {
     "express": "4.x",
     "ejs": "1.0"
-  }
+  },
+	"engines": {
+	    "node": "0.10.x"
+	}
 }
